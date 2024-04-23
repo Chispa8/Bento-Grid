@@ -1,6 +1,6 @@
 (This one in portuguese)
 <br>
-# Projeto de Prática com Bento Grid :hammer:
+# Projeto de prática com Bento Grid :hammer:
 
 Este é um projeto para praticar o uso do sistema de design Bento Grid, criado por Dmitry Kryukov. Neste projeto utiliza-se HTML e CSS puro (vanilla) para implementar o sistema de grid.
 
@@ -10,7 +10,7 @@ O Bento Grid é um sistema de grid simples e flexível, projetado para criar lay
 
 Para mais informações e documentação sobre o Bento Grid, visite o site oficial [bentogrids.com](https://bentogrids.com).
 
-## Como Usar :floppy_disk:
+## Como usar :floppy_disk:
 
 1. Clone este repositório em sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador para visualizar o projeto.
