@@ -1,27 +1,20 @@
-(This one in portuguese)
-<br>
-# Projeto de prática com Bento Grid :hammer:
+# Practice Project with Bento Grid :hammer:
 
-Este é um projeto para praticar o uso do sistema de design Bento Grid, criado por Dmitry Kryukov. Neste projeto utiliza-se HTML e CSS puro (vanilla) para implementar o sistema de grid.
+This is a project to practice using the Bento Grid design system, created by Dmitry Kryukov. This project uses pure HTML and CSS (vanilla) to implement the grid system.
 
-## Sobre o Bento Grid :page_with_curl:
+## About Bento Grid :page_with_curl:
+Bento Grid is a simple and flexible grid system designed to create responsive layouts efficiently. It offers a minimalist approach to web page layout, allowing developers to build elegant and functional designs with ease.
 
-O Bento Grid é um sistema de grid simples e flexível, projetado para criar layouts responsivos de forma eficiente. Ele oferece uma abordagem minimalista para o layout de páginas da web, permitindo que os desenvolvedores construam designs elegantes e funcionais com facilidade.
+For more information and documentation about Bento Grid, visit the official website bentogrids.com.
 
-Para mais informações e documentação sobre o Bento Grid, visite o site oficial [bentogrids.com](https://bentogrids.com).
+## How to Use :floppy_disk:
+Clone this repository to your local machine.
+Open the index.html file in your browser to view the project.
+Explore the HTML and CSS source code to understand how Bento Grid is implemented.
+Feel free to modify and experiment with the code to practice and improve your responsive design skills.
 
-## Como usar :floppy_disk:
+## Contribution :wrench:
+Contributions are welcome! Feel free to submit suggestions, corrections, or improvements through pull requests.
 
-1. Clone este repositório em sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador para visualizar o projeto.
-3. Explore o código-fonte HTML e CSS para entender como o Bento Grid é implementado.
-4. Sinta-se à vontade para modificar e experimentar com o código para praticar e aprimorar suas habilidades em design responsivo.
-
-## Contribuição :wrench:
-
-Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, correções ou melhorias através de pull requests.
-
-## Contato :iphone:
-
-Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Você pode me encontrar através do meu perfil no GitHub, LinkedIn, e-mail ou Instagram.
-
+## Contact :iphone:
+If you have any questions or suggestions, please do not hesitate to get in touch. You can find me through my GitHub profile, LinkedIn, email, or Instagram.
